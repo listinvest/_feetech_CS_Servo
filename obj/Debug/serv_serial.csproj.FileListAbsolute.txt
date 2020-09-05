@@ -1,0 +1,10 @@
+C:\Users\omerc\source\repos\serv_serial\bin\Debug\serv_serial.exe.config
+C:\Users\omerc\source\repos\serv_serial\bin\Debug\serv_serial.exe
+C:\Users\omerc\source\repos\serv_serial\bin\Debug\serv_serial.pdb
+C:\Users\omerc\source\repos\serv_serial\obj\Debug\serv_serial.csprojAssemblyReference.cache
+C:\Users\omerc\source\repos\serv_serial\obj\Debug\serv_serial.Form1.resources
+C:\Users\omerc\source\repos\serv_serial\obj\Debug\serv_serial.Properties.Resources.resources
+C:\Users\omerc\source\repos\serv_serial\obj\Debug\serv_serial.csproj.GenerateResource.cache
+C:\Users\omerc\source\repos\serv_serial\obj\Debug\serv_serial.csproj.CoreCompileInputs.cache
+C:\Users\omerc\source\repos\serv_serial\obj\Debug\serv_serial.exe
+C:\Users\omerc\source\repos\serv_serial\obj\Debug\serv_serial.pdb
